@@ -1,0 +1,2 @@
+[console_scripts]
+oculus_node = oculus_reader.oculus_node:main

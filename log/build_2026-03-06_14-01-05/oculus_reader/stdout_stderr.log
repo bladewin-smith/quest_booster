@@ -1,0 +1,29 @@
+running egg_info
+creating ../../build/oculus_reader/oculus_reader.egg-info
+writing ../../build/oculus_reader/oculus_reader.egg-info/PKG-INFO
+writing dependency_links to ../../build/oculus_reader/oculus_reader.egg-info/dependency_links.txt
+writing entry points to ../../build/oculus_reader/oculus_reader.egg-info/entry_points.txt
+writing requirements to ../../build/oculus_reader/oculus_reader.egg-info/requires.txt
+writing top-level names to ../../build/oculus_reader/oculus_reader.egg-info/top_level.txt
+writing manifest file '../../build/oculus_reader/oculus_reader.egg-info/SOURCES.txt'
+reading manifest file '../../build/oculus_reader/oculus_reader.egg-info/SOURCES.txt'
+writing manifest file '../../build/oculus_reader/oculus_reader.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/robify/piper_quest/build/oculus_reader/build
+creating /home/robify/piper_quest/build/oculus_reader/build/lib
+creating /home/robify/piper_quest/build/oculus_reader/build/lib/oculus_reader
+copying oculus_reader/__init__.py -> /home/robify/piper_quest/build/oculus_reader/build/lib/oculus_reader
+copying oculus_reader/oculus_node.py -> /home/robify/piper_quest/build/oculus_reader/build/lib/oculus_reader
+running install
+running install_lib
+creating /home/robify/piper_quest/install/oculus_reader/lib/python3.12/site-packages/oculus_reader
+copying /home/robify/piper_quest/build/oculus_reader/build/lib/oculus_reader/__init__.py -> /home/robify/piper_quest/install/oculus_reader/lib/python3.12/site-packages/oculus_reader
+copying /home/robify/piper_quest/build/oculus_reader/build/lib/oculus_reader/oculus_node.py -> /home/robify/piper_quest/install/oculus_reader/lib/python3.12/site-packages/oculus_reader
+byte-compiling /home/robify/piper_quest/install/oculus_reader/lib/python3.12/site-packages/oculus_reader/__init__.py to __init__.cpython-312.pyc
+byte-compiling /home/robify/piper_quest/install/oculus_reader/lib/python3.12/site-packages/oculus_reader/oculus_node.py to oculus_node.cpython-312.pyc
+running install_egg_info
+Copying ../../build/oculus_reader/oculus_reader.egg-info to /home/robify/piper_quest/install/oculus_reader/lib/python3.12/site-packages/oculus_reader-0.0.1-py3.12.egg-info
+running install_scripts
+Installing oculus_node script to /home/robify/piper_quest/install/oculus_reader/lib/oculus_reader
+writing list of installed files to '/home/robify/piper_quest/build/oculus_reader/install.log'

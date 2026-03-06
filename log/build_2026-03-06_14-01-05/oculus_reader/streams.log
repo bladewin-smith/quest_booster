@@ -1,0 +1,31 @@
+[0.568s] Invoking command in '/home/robify/piper_quest/src/oculus_reader': CONDA_PROMPT_MODIFIER=(base) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/robify/piper_quest/build/oculus_reader/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robify/piper_quest/install/oculus_reader/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/oculus_reader build --build-base /home/robify/piper_quest/build/oculus_reader/build install --record /home/robify/piper_quest/build/oculus_reader/install.log --single-version-externally-managed
+[0.678s] running egg_info
+[0.693s] creating ../../build/oculus_reader/oculus_reader.egg-info
+[0.694s] writing ../../build/oculus_reader/oculus_reader.egg-info/PKG-INFO
+[0.694s] writing dependency_links to ../../build/oculus_reader/oculus_reader.egg-info/dependency_links.txt
+[0.694s] writing entry points to ../../build/oculus_reader/oculus_reader.egg-info/entry_points.txt
+[0.694s] writing requirements to ../../build/oculus_reader/oculus_reader.egg-info/requires.txt
+[0.694s] writing top-level names to ../../build/oculus_reader/oculus_reader.egg-info/top_level.txt
+[0.694s] writing manifest file '../../build/oculus_reader/oculus_reader.egg-info/SOURCES.txt'
+[0.700s] reading manifest file '../../build/oculus_reader/oculus_reader.egg-info/SOURCES.txt'
+[0.700s] writing manifest file '../../build/oculus_reader/oculus_reader.egg-info/SOURCES.txt'
+[0.700s] running build
+[0.700s] running build_py
+[0.700s] creating /home/robify/piper_quest/build/oculus_reader/build
+[0.700s] creating /home/robify/piper_quest/build/oculus_reader/build/lib
+[0.700s] creating /home/robify/piper_quest/build/oculus_reader/build/lib/oculus_reader
+[0.700s] copying oculus_reader/__init__.py -> /home/robify/piper_quest/build/oculus_reader/build/lib/oculus_reader
+[0.701s] copying oculus_reader/oculus_node.py -> /home/robify/piper_quest/build/oculus_reader/build/lib/oculus_reader
+[0.701s] running install
+[0.703s] running install_lib
+[0.711s] creating /home/robify/piper_quest/install/oculus_reader/lib/python3.12/site-packages/oculus_reader
+[0.711s] copying /home/robify/piper_quest/build/oculus_reader/build/lib/oculus_reader/__init__.py -> /home/robify/piper_quest/install/oculus_reader/lib/python3.12/site-packages/oculus_reader
+[0.711s] copying /home/robify/piper_quest/build/oculus_reader/build/lib/oculus_reader/oculus_node.py -> /home/robify/piper_quest/install/oculus_reader/lib/python3.12/site-packages/oculus_reader
+[0.711s] byte-compiling /home/robify/piper_quest/install/oculus_reader/lib/python3.12/site-packages/oculus_reader/__init__.py to __init__.cpython-312.pyc
+[0.711s] byte-compiling /home/robify/piper_quest/install/oculus_reader/lib/python3.12/site-packages/oculus_reader/oculus_node.py to oculus_node.cpython-312.pyc
+[0.712s] running install_egg_info
+[0.720s] Copying ../../build/oculus_reader/oculus_reader.egg-info to /home/robify/piper_quest/install/oculus_reader/lib/python3.12/site-packages/oculus_reader-0.0.1-py3.12.egg-info
+[0.720s] running install_scripts
+[0.778s] Installing oculus_node script to /home/robify/piper_quest/install/oculus_reader/lib/oculus_reader
+[0.778s] writing list of installed files to '/home/robify/piper_quest/build/oculus_reader/install.log'
+[0.793s] Invoked command in '/home/robify/piper_quest/src/oculus_reader' returned '0': CONDA_PROMPT_MODIFIER=(base) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/robify/piper_quest/build/oculus_reader/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robify/piper_quest/install/oculus_reader/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/oculus_reader build --build-base /home/robify/piper_quest/build/oculus_reader/build install --record /home/robify/piper_quest/build/oculus_reader/install.log --single-version-externally-managed
